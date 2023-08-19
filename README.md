@@ -43,7 +43,7 @@ We leverage the power of two essential tools for this project:
 Our analysis revolves around the following key aspects:
 
 - Identifying the most popular pizza flavors
-- Analyzing sales trends over time (daily, weekly, monthly)
+- Analyzing sales trends over time (daily, weekly, monthly,yearly)
 - Investigating the correlation between customer demographics and flavor preferences
 - Exploring upselling opportunities based on transaction history
 - Uncovering any seasonality or special event impacts on sales
